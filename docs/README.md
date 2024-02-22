@@ -1,4 +1,4 @@
-# JAL (Just Another Ledger)
+# JAL 
 **Track and manage your personal finances seamlessly.**
 
 [![image](http://img.shields.io/pypi/v/jal.svg)](https://pypi.python.org/pypi/jal/)
